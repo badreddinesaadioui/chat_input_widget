@@ -1,5 +1,4 @@
 import streamlit as st 
-from streamlit_extras.bottom_container import bottom
 from streamlit_chat_widget import chat_input_widget
 
 st.markdown("###Testing chat input widget")
