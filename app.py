@@ -1,7 +1,7 @@
 import streamlit as st 
 from streamlit_chat_widget import chat_input_widget
 
-st.markdown("###Testing chat input widget")
+st.markdown("### Testing chat input widget")
             
 user_input_value_container = st.empty()
 audio_container = st.empty()
